@@ -1,0 +1,1 @@
+# Technical-Indicators-FA-Project
