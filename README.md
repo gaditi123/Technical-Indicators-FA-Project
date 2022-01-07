@@ -2,7 +2,7 @@
 
 ## Current Status - Implemented the technical indicators
 
-#What Next?
+# What Next?
 
 ## Combination
 ## Classification (Buy/Sell, Profit/Loss)
